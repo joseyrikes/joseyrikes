@@ -6,17 +6,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6B46C1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+Hi there, I'm Jose :);AI Enthusiast;IoT Developer;Discord Bot Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6B46C1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jose+%3BAI+Enthusiast;IoT+Developer;Discord+Bot+Creator" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-9%2B%20Years-6B46C1?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Experience-Some%2B%20Years-6B46C1?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/Discord bot devleopment  %20Web-61DAFB?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-Open%20for%20agency%20overflow-success?style=for-the-badge" alt="Status"/>
   <img src="https://komarev.com/ghpvc/?username=joseyrikes&style=for-the-badge&color=2989D2&labelColor=0B1626&label=VIEWS"/>
 </div>
-
+Open%20for%20agency%20overflow
 <br/>
 
 ## 👋 About Me
@@ -26,6 +26,10 @@
 - Current Passion: Designing and deploying custom Discord bots for automation, community engagement, and API integrations.
 
 - Goals: Combining smart IoT edge devices with conversational interfaces (like Discord) powered by machine learning algorithms.
+
+- Fun fact: I've recently been enjoying the freelancer lifestyle! 
+I get a fresh boost of motivation whenever an interesting project comes my way, whether it's from long-term clients or new agencies. 
+I love the variety, the challenges, and the occasional "wait, how does this work?" moment. 😄
 
 <br/>
 
