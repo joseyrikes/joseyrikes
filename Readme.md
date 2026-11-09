@@ -6,12 +6,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6B46C1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jose+%3BAI+Enthusiast;IoT+Developer;Discord+Bot+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6B46C1&center=true&vCenter=true&width=600&lines=Hi+I'm+Jose+%3BDiscord+Bot+Wizard;AI+Explorer;IoT+Tinkerer" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-Some%2B%20Years-6B46C1?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Experience-Some%20Years-6B46C1?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/Discord bot devleopment  %20Web-61DAFB?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Open%20for%20agency%20overflow-success?style=for-the-badge" alt="Status"/>
   <img src="https://komarev.com/ghpvc/?username=joseyrikes&style=for-the-badge&color=2989D2&labelColor=0B1626&label=VIEWS"/>
