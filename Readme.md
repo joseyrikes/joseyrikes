@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Status-Open%20for%20agency%20overflow-success?style=for-the-badge" alt="Status"/>
   <img src="https://komarev.com/ghpvc/?username=joseyrikes&style=for-the-badge&color=2989D2&labelColor=0B1626&label=VIEWS"/>
 </div>
-Open%20for%20agency%20overflow
 <br/>
 
 ## 👋 About Me
@@ -27,8 +26,10 @@ Open%20for%20agency%20overflow
 
 - Goals: Combining smart IoT edge devices with conversational interfaces (like Discord) powered by machine learning algorithms.
 
-- Fun fact: I've recently been enjoying the freelancer lifestyle! 
-I get a fresh boost of motivation whenever an interesting project comes my way, whether it's from long-term clients or new agencies. 
+- Fun fact: I've recently been enjoying the freelancer lifestyle!
+
+I get a fresh boost of motivation whenever an interesting project comes my way, whether it's from long-term clients or new agencies.
+
 I love the variety, the challenges, and the occasional "wait, how does this work?" moment. 😄
 
 <br/>
