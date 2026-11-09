@@ -20,16 +20,14 @@
 
 ## 👋 About Me
 
-- Early Career Focus: Built software solutions for IoT systems and integrated data models for AI applications.
+- **Early Career Focus:** Built software solutions for IoT systems and integrated data models for AI applications.
 
-- Current Passion: Designing and deploying custom Discord bots for automation, community engagement, and API integrations.
+- **Current Passion:** Designing and deploying custom Discord bots for automation, community engagement, and API integrations.
 
-- Goals: Combining smart IoT edge devices with conversational interfaces (like Discord) powered by machine learning algorithms.
+- **Goals:** Combining smart IoT edge devices with conversational interfaces (like Discord) powered by machine learning algorithms.
 
-- Fun fact: I've recently been enjoying the freelancer lifestyle!
-
-I get a fresh boost of motivation whenever an interesting project comes my way, whether it's from long-term clients or new agencies.
-
+- **Fun fact:** enjoying the freelancer lifestyle lately!<br> 
+I get a new energy whenever an interesting project comes my way, whether it's from long-term clients or new agencies. <br>
 I love the variety, the challenges, and the occasional "wait, how does this work?" moment. 😄
 
 <br/>
