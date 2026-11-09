@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Experience-Some%20Years-6B46C1?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/Discord bot devleopment  %20Web-61DAFB?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Open%20for%20agency%20overflow-success?style=for-the-badge" alt="Status"/>
-  <img src="https://komarev.com/ghpvc/?username=joseyrikes&style=for-the-badge&color=2989D2&labelColor=0B1626&label=VIEWS"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=joseyrikes&style=for-the-badge&color=2989D2&labelColor=0B1626&label=VIEWS"/> -->
 </div>
 <br/>
 
